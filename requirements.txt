@@ -1,0 +1,8 @@
+numpy
+matplotlib
+tensorflow==2.9.1  # Use the version compatible with your Python version
+scikit-learn
+pandas  # If you're using it for data manipulation
+Pillow  # For image processing
+h5py  # If you're saving models in HDF5 format
+opencv-python-headless  # For image processing if you're not using Pillow
